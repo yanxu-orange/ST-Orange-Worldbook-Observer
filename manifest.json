@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.4.2",
+  "name": "世界书观测台 v0.4.2 · 雾墨青蓝 · 三端适配",
+  "author": "砚梨",
+  "entry": "https://fastly.jsdelivr.net/gh/yanxu-orange/worldbook-observer-release@v0.4.2/releases/v0.4.2/index.js",
+  "sha256": "3A0EC92FA36EDE265924693E7C152D5C20741FECADB850FCB45F327AE8470DEB",
+  "offline": "https://github.com/yanxu-orange/worldbook-observer-release/raw/refs/tags/v0.4.2/releases/v0.4.2/世界书观测台-v0.4.2.json"
+}

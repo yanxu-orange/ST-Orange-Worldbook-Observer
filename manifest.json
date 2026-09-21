@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "name": "世界书观测台 v1.0.0",
   "author": "砚梨",
-  "entry": "https://fastly.jsdelivr.net/gh/yanxu-orange/ST-Orange-Worldbook-Observer@v1.0.0/releases/v1.0.0/index.js",
+  "entry": "https://fastly.jsdelivr.net/gh/yanxu-orange/worldbook-observer-release@v1.0.0/releases/v1.0.0/index.js",
   "sha256": "E19EF9429A399A8F2F2217A7400311A9251754F5F1360C724F38E18A3C0AB188",
   "offline": "https://github.com/yanxu-orange/ST-Orange-Worldbook-Observer/raw/refs/tags/v1.0.0/releases/v1.0.0/世界书观测台-v1.0.0.json"
 }
